@@ -25,9 +25,6 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=nhatmicls&color=yellow&label=Profile+views&style=flat-square)
-
-
 ---
 
 <img width="" height="" src="image/jita4-4-crop.png"/>
