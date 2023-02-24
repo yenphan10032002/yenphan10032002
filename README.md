@@ -20,7 +20,7 @@
 <img align='left' width="32" height="32" src="icon/c.svg"/>
 <img align='left' width="32" height="32" src="icon/git.svg"/>
 <img align='left' width="32" height="32" src="icon/github.svg"/>
-<img align='left' width="" height="32" src="icon/altium.png"/>
+<img align='left' width="" height="32" src="icon/altium-designer.png"/>
 
 <br>
 <br>
