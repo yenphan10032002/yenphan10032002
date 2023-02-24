@@ -26,7 +26,7 @@
 
 ---
 
-<img width="" height="" src="background.png"/>
+<img width="" height="" src="image/background.png"/>
 
 <!-- -->
 
